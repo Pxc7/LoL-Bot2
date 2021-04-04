@@ -11,7 +11,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 </p>
 
 <p align="center">
-<a href="https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw"><img height="30" src="https://i.ibb.co/fxgb1JS/472b4d8d3ab7fcc3be2fc0e8353a5350.png"></a>&nbsp;&nbsp;
+<a href="https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw"><img height="75" src="https://i.ibb.co/fxgb1JS/472b4d8d3ab7fcc3be2fc0e8353a5350.png"></a>&nbsp;&nbsp;
 </p>
 
 # _**PERHATIKAN**_
