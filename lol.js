@@ -275,23 +275,6 @@ async function starts() {
                     }
                     lolteam.sendMessage(from, help(prefix, pushname2,  premi, uptime, tanggal, pepolu, hayuk), text, ini_csreply)
                     break
-		case 'sticktag': 
-            case 'stickertag':
-				if (!isQuotedSticker) return reply(from, `Reply sticker dengan caption *${prefix}stickertag*`, qul)
-				let encmediai = JSON.parse(JSON.stringify(lol).replace('quotedM','m')).message.extendedTextMessage.contextInfo
-				let mediai = await lolteam.downloadMediaMessage(encmediai)
-				lolteam.sendMessege(from, mediai, sticker, { quoted: lol})
-				break
-		case 'kontak':
-				argz = arg.split('|')
-				if (args.length == 0) return reply(`Tag orangnya!`)
-				if (lol.message.extendedTextMessage != undefined){
-                    mentioned = lol.message.extendedTextMessage.contextInfo.mentionedJid
-					client.sendKontak(from, mentioned[0].split('@')[0], argz[1])
-				} else {
-					client.sendKontak(from, argz[0], argz[1])
-				}
-				break
 		//group\\
 			case 'setpp': 
                         if (!isGroup) return reply(ind.groupo())
@@ -577,6 +560,12 @@ async function starts() {
                     if (args.length == 0) return reply(`Example: ${prefix + command} http://api.lolhuman.xyz`)
                     ini_link = args[0]
                     ini_buffer = await fetchJson(`http://lolhuman.herokuapp.com/api/shortlink?apikey=${apikey}&url=${ini_link}`)
+                    reply(ini_buffer.result)
+                    break
+                case 'shortlink2':
+                    if (args.length == 0) return reply(`Example: ${prefix + command} http://api.lolhuman.xyz`)
+                    ini_link = args[0]
+                    ini_buffer = await fetchJson(`http://lolhuman.herokuapp.com/api/shortlink2?apikey=${apikey}&url=${ini_link}`)
                     reply(ini_buffer.result)
                     break
 		case 'ocr':
