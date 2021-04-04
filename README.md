@@ -50,6 +50,9 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 * [`Sofyen:V`](https://github.com/SofyanAMV09)
 * [`Rio`](https://github.com/ItzRio-Bruh)
 
+<p align="center">
+ <p href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxc7" alt="pxc7" />
+
 ![Pxc7 github stats](https://github-readme-stats.vercel.app/api?username=Pxc7&layout=compact&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=true&theme=radical)
 
