@@ -10,6 +10,9 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
   <a href="https://github.com/Pxc7/LoL-Bot2#LANGUAGE">Language</a> 
 </p>
 
+<p align="center">
+
+https://i.ibb.co/fxgb1JS/472b4d8d3ab7fcc3be2fc0e8353a5350.png
 # _**PERHATIKAN**_
 </div>
 
