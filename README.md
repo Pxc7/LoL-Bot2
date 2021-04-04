@@ -7,6 +7,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
   <a href="https://github.com/Pxc7/LoL-Bot2#TROPY">Tropy</a> •
   <a href="https://github.com/Pxc7/LoL-Bot2#JUMLAH-VIEWS">Views</a> •
   <a href="https://github.com/Pxc7/LoL-Bot2#STATUS">Status</a> •
+  <a href="https://github.com/Pxc7/LoL-Bot2#LANGUAGE">Language</a> 
 </p>
 
 # _**PERHATIKAN**_
