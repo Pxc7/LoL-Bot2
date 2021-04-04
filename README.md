@@ -58,3 +58,8 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 
 ## TROPY🏆
 ![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
+
+## JUMLAH VIEWS👀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pxc7&label=VIEW&style=flat-square&color=orange" />
+</p>
