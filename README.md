@@ -49,3 +49,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 * [`NandoGay`](https://github.com/Arnando456)
 * [`Sofyen:V`](https://github.com/SofyanAMV09)
 * [`Rio`](https://github.com/ItzRio-Bruh)
+
+![Pxc7 github stats](https://github-readme-stats.vercel.app/api?username=Pxc7&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=true&theme=radical)
+
