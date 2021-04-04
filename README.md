@@ -3,7 +3,8 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 <img src="https://i.ibb.co/GQcDxdZ/IMG-20210329-WA0485.jpg" alt="Pxc7" width="500" />
 <p align="center">
   <a href="https://github.com/Pxc7/LoL-Bot#installation">Installation</a> •
-  <a href="https://github.com/Pxc7/LoL-Bot#thanks-to">Thanks Too</a> 
+  <a href="https://github.com/Pxc7/LoL-Bot#thanks-to">Thanks Too</a> •
+  <a href="https://github.com/Pxc7/LoL-Bot#TROPY">Tropy</a> •
 </p>
 
 # _**PERHATIKAN**_
