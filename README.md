@@ -19,7 +19,10 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 
 # Installation
 
+<div
 ## Termux
+</div>
+
 ```cmd
 > pkg update && pkg upgrade
 > pkg install git -y
