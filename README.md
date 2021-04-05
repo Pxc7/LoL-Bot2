@@ -44,12 +44,10 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 ```
 
 ## _INFO TENTANG GW_<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
-<p align="center">
 [![Instagram Badge](https://img.shields.io/badge/-dokidokinime-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dokidokinime/)](https://instagram.com/dokidokinime)
 [![Youtube Badge](https://img.shields.io/badge/-Mr.A43G-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
 [![Whatsapp Badge](https://img.shields.io/badge/-Riu-darkgreen?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/62814622392081)](https://wa.me/62814622392081)
-</p>
+
 
 # *Thanks To*
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
