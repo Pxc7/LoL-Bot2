@@ -62,7 +62,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 * [`Rio`](https://github.com/ItzRio-Bruh)
 
 ## STATUS🎌
-![Pxc7 github stats](https://github-readme-stats.vercel.app/api?username=Pxc7&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Pxc7&count_private=true&show_icons=true&include_all_commits=true)
 
 ## LANGUAGE📄
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=true&theme=radical)
