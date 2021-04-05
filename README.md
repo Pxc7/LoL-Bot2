@@ -56,7 +56,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 # *Thanks To*
 * [![Github Badge](https://img.shields.io/badge/-Baileys-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/adiwajshing/Baileys)](https://github.com/adiwajshing/Baileys)
 * [![Github Badge](https://img.shields.io/badge/-Fxc7-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Fxc7)](https://github.com/Fxc7)
-* [![Github Badge](https://img.shields.io/badge/-LoL Human-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/LoL-Human)](https://github.com/LoL-Human)
+* [![Github Badge](https://img.shields.io/badge/-LoLHuman-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/LoL-Human)](https://github.com/LoL-Human)
 * [![Github Badge](https://img.shields.io/badge/-Arnando-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Arnando456)](https://github.com/Arnando456)
 * [![Github Badge](https://img.shields.io/badge/-Sofyen-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SofyanAMV09)](https://github.com/SofyanAMV09)
 * [![Github Badge](https://img.shields.io/badge/-Rio-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Itz-Rio-Bruh)](https://github.com/Itz-Rio-Bruh)
