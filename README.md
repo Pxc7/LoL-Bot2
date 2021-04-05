@@ -10,8 +10,8 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
   <a href="https://github.com/Pxc7/LoL-Bot2#LANGUAGE">Language</a> 
 </p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) •
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) •
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) |
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 <p align="center">
