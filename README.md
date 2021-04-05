@@ -27,30 +27,30 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 > pkg install ffmpeg -y
 ```
 
-## Cloning 
+## _Cloning_
 ```cmd
 > git clone https://github.com/Pxc7/LoL-Bot2
 > cd LoL-Bot2
 ```
 
-## Install 
+## _Install_
 ```cmd
 > npm i
 ```
 
-## Run the LoL-Bot2
+## _Run the LoL-Bot2_
 ```cmd
 > npm start
 ```
 
-## INFO TENTANG GW<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## _INFO TENTANG GW_<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
 * [`Instagram`](https://instagram.com/dokidokinime)
 * [`WhatsApp`](https://wa.me/+62814622392081)
 * [`Group WA`](https://chat.whatsapp.com/BAKCaUv3A4bItnouopuIeq)
 
-# Thanks To
+# *Thanks To*
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Fxc7`](https://github.com/Fxc7)
 * [`LoL-Human`](https://github.com/LoL-Human)
