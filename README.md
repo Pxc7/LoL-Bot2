@@ -44,11 +44,8 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 ```
 
 ## _INFO TENTANG GW_<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
-* [`Youtube`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
-* [`Instagram`](https://instagram.com/dokidokinime)
-* [`WhatsApp`](https://wa.me/+62814622392081)
-* [`Group WA`](https://chat.whatsapp.com/BAKCaUv3A4bItnouopuIeq)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dokidokinime/)](https://instagram.com/dokidokinime)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
 
 # *Thanks To*
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
