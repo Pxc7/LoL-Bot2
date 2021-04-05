@@ -48,18 +48,18 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 ```
 
 ## _INFO TENTANG GW_<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-[![Instagram Badge](https://img.shields.io/badge/-dokidokinime-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dokidokinime/)](https://instagram.com/dokidokinime)
-[![Youtube Badge](https://img.shields.io/badge/-Mr.A43G-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
-[![Whatsapp Badge](https://img.shields.io/badge/-Riu-darkgreen?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/62814622392081)](https://wa.me/62814622392081)
+* [![Instagram Badge](https://img.shields.io/badge/-dokidokinime-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dokidokinime/)](https://instagram.com/dokidokinime)
+* [![Youtube Badge](https://img.shields.io/badge/-Mr.A43G-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
+* [![Whatsapp Badge](https://img.shields.io/badge/-Riu-darkgreen?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/62814622392081)](https://wa.me/62814622392081)
 
 
 # *Thanks To*
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [![Github Badge](https://img.shields.io/badge/-Baileys-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/adiwajshing/Baileys)](https://github.com/adiwajshing/Baileys)
 * [![Github Badge](https://img.shields.io/badge/-Fxc7-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Fxc7)](https://github.com/Fxc7)
-* [`LoL-Human`](https://github.com/LoL-Human)
-* [`NandoGay`](https://github.com/Arnando456)
-* [`Sofyen:V`](https://github.com/SofyanAMV09)
-* [`Rio`](https://github.com/ItzRio-Bruh)
+* [![Github Badge](https://img.shields.io/badge/-LoL-Human-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/LoL-Human)](https://github.com/LoL-Human)
+* [![Github Badge](https://img.shields.io/badge/-Arnando-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Arnando456)](https://github.com/Arnando456)
+* [![Github Badge](https://img.shields.io/badge/-Sofyen-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SofyanAMV09)](https://github.com/SofyanAMV09)
+* [![Github Badge](https://img.shields.io/badge/-Rio-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Itz-Rio-Bruh)](https://github.com/Itz-Rio-Bruh)
 
 ## STATUS🎌
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pxc7&count_private=true&show_icons=true&include_all_commits=true)
