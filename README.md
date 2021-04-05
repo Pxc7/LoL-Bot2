@@ -55,7 +55,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 
 # *Thanks To*
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-[![Github Badge](https://img.shields.io/badge/-Fxc7-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Fxc7)](https://github.com/Fxc7)
+* [![Github Badge](https://img.shields.io/badge/-Fxc7-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Fxc7)](https://github.com/Fxc7)
 * [`LoL-Human`](https://github.com/LoL-Human)
 * [`NandoGay`](https://github.com/Arnando456)
 * [`Sofyen:V`](https://github.com/SofyanAMV09)
