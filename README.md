@@ -65,7 +65,7 @@ Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Pxc7&count_private=true&show_icons=true&include_all_commits=true)
 
 ## LANGUAGE📄
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pxc7&count_private=true&show_icons=compact&theme=onedark)
 
 ## TROPY🏆
 ![](https://github-profile-trophy.vercel.app/?username=Pxc7&row=2&column=3&layout=compact&theme=onedark)
